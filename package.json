@@ -31,6 +31,6 @@
     "nodemailer": "^6.4.10",
     "phantomjs": "^2.1.7",
     "phantomjs-prebuilt": "^2.1.16",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   }
 }
